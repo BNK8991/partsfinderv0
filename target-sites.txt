@@ -1,0 +1,8 @@
+- https://www.phucanh.vn/card-man-hinh.html (they use <li> tag for product listing) This is a draft btw
+
+Sites using <li> tag:
+- https://www.microcenter.com/category/4294966937,519/video-cards 
+- https://www.centralcomputer.com/all-products/hardware/video-cards.html 
+
+Sites using <div> tag:
+- https://www.newegg.com/Desktop-Graphics-Cards/SubCategory/ID-48?Tid=7709 

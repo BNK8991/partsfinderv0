@@ -1,0 +1,37 @@
+Create the project dir: 
+django-admin startproject partsfinderv0
+Create new apps within project (another module):
+python manage.py startapp
+
+To migrate the models into the db (turn the models into db tables):
+First:
+- python manage.py makemigrations 
+then:
+- python manage.py migrate
+---> the model is now in the database as a table
+
+Create a super user:
+- python manage.py createsuperuser
+For this project:
+user name: admin
+Email: none@mail.com
+password: 1
+
+Runserver: 
+python manage.py runserver
+
+Working with GitHub:
+Initialize the local directory as a Git repository:
+git init -b main
+Stage and commit all the files in your project:
+git add . && git commit -m "initial commit"
+
+Push existing repo from command line:
+git remote add origin https://github.com/BNK8991/partsfinderv0.git
+git branch -M main
+git push -u origin main
+
+Pushing codes onto Github (the sequence):
+git add.
+git commit
+git push
