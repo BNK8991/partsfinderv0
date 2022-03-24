@@ -1,5 +1,5 @@
 #4th example for getting infor from real-life sites
-#this is where I pretified the output + put in some filters as well
+#this is still work
 
 from bs4 import BeautifulSoup
 import requests #get info from sites
