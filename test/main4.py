@@ -1,7 +1,7 @@
 #2nd example for getting infor from real-life sites
 
 from bs4 import BeautifulSoup
-import requests as rq#get info from sites
+import requests as rq #get info from sites
 
 #Function for filtering
 print(f'Input your wanted brand')
