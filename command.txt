@@ -10,6 +10,11 @@ then:
 - python manage.py migrate
 ---> the model is now in the database as a table
 
+Libraries:
+beautiful soup: pip install beautifulsoup4
+parser: pip install lxml
+requests: pip install requests
+
 Create a super user:
 - python manage.py createsuperuser
 For this project:
