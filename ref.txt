@@ -1,0 +1,17 @@
+Original references (Only the Front End looks good): https://github.com/RamonWill/price-comparison-project
+
+For the example site:
+
+- https://www.youtube.com/watch?v=ii7CfpdRPYA
+
+- GitHub repo, original references (Only the Front End looks good): https://github.com/RamonWill/price-comparison-project
+
+For the basic areas:
+
+- Django basic?:
+https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc
+
+- Django ecom:
+https://www.youtube.com/watch?v=YZvRrldjf1Y
+
+Scrapper tutorial: https://www.youtube.com/watch?v=XVv6mJpFOb0&t=1927s
