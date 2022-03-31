@@ -1,8 +1,15 @@
-- https://www.phucanh.vn/card-man-hinh.html (they use <li> tag for product listing) This is a draft btw
-
 Sites using <li> tag:
-- https://www.microcenter.com/category/4294966937,519/video-cards 
-- https://www.centralcomputer.com/all-products/hardware/video-cards.html 
+- https://www.microcenter.com 
+- https://www.centralcomputer.com 
 
-Sites using <div> tag:
-- https://www.newegg.com/Desktop-Graphics-Cards/SubCategory/ID-48?Tid=7709 
+ 
+Information to crawl:
+The price and availability of the following items:
+- CPU
+- Motherboard
+- Memory (RAM)
+- Storage (SSD)
+- Storage (HDD)
+- Graphics Card (GPU)
+- Power supply unit (PSU)
+- PC case
